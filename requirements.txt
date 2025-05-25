@@ -1,0 +1,21 @@
+# Reddit API
+praw>=7.7.1
+
+# Stock market data
+yfinance>=0.2.18
+
+# MCP Protocol
+mcp>=1.0.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Data handling
+pandas>=2.0.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Utility
+typing-extensions>=4.5.0
+pydantic>=2.0.0
